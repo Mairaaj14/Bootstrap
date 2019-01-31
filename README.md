@@ -32,8 +32,8 @@ Here is a code snippet of how your header is supposed to look like:
 * HTML
 * CSS
 * Bootstrap
-* [VCS] - The code editor
-* [Github Paged] - Deployment
+* [VCS](https) - The code editor
+* [Github Pages](https) - Deployment
 
 ## Authors
 
