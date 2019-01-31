@@ -1,4 +1,4 @@
-# Bootstrap
+# Basic Bootstrap Portfolio
 # Welcome
 This is a project where Bootstrap library is used to create a basic Bootstrap-Portfolio.
 ## Overview
@@ -11,6 +11,8 @@ Below is a following example of what my basic portfolio looks like using the Boo
 
 ![alt text](assets/images/Bootstrap.gif)
 
+### Getting Started
+You will need to visit Bootstrap page in order to read over the documentation and add the link and scripts to your HTML header.
 Here is a code snippet of how your header is supposed to look like:
 
 ``` 
