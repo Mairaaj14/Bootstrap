@@ -32,7 +32,7 @@ Here is a code snippet of how your header is supposed to look like:
 * HTML
 * CSS
 * Bootstrap
-* [VCS](https) - The code editor
+* [VSC](https) - Visual Studio Code, Editor
 * [Github Pages](https) - Deployment
 
 ## Authors
