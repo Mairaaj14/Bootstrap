@@ -8,4 +8,4 @@ Portfolio has three pages in Navbar that are links that will direct you to a sep
 * Contact
 Below is a following example of what the Navbar looks like:
 
-![alt text](assets/images/navbar.png)
+![alt text](assets/images/Bootstrap.gif)
