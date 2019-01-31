@@ -13,6 +13,7 @@ Below is a following example of what my basic portfolio looks like using the Boo
 
 ### Getting Started
 You will need to visit Bootstrap page in order to read over the documentation and add the link and scripts to your HTML header.
+
 Here is a code snippet of how your header is supposed to look like:
 
 ``` 
@@ -26,3 +27,16 @@ Here is a code snippet of how your header is supposed to look like:
 </head>
 
 ```
+
+### Built With
+* HTML
+* CSS
+* Bootstrap
+* [VCS] - The code editor
+* [Github Paged] - Deployment
+
+## Authors
+
+* **Maira Jimenez** - *Initial work* - [Mairaaj14](https://github.com/Mairaaj14)
+
+
