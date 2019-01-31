@@ -39,4 +39,9 @@ Here is a code snippet of how your header is supposed to look like:
 
 * **Maira Jimenez** - *Initial work* - [Mairaaj14](https://github.com/Mairaaj14)
 
+## Acknowledgments
+* Jerome Chenette
+* Jimmy Tu
+* Sasha Patsel
+
 
