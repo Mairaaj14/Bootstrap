@@ -13,7 +13,8 @@ Below is a following example of what my basic portfolio looks like using the Boo
 
 Here is a code snippet of how your header is supposed to look like:
 
-```<head>
+``` 
+<head>
   <meta charset="UTF-8">
   <title>Portfolio | Maira Jimenez</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
